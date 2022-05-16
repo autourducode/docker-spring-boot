@@ -27,7 +27,7 @@ Suivez les étapes ci-dessous dans l'ordre.
 - Ici, 8081 est le port Docker et 8080 est le port Tomcat où s'exécute l'application Spring Boot. 
 
 
-contactez ricken.bazolo@gmail.com pour plus de détails et pour toute question. 
+contactez support@autourducode.net pour plus de détails et pour toute question. 
 
 
 			
